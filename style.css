@@ -117,6 +117,15 @@ nav .container .btn button{
     margin-bottom: 6px;
 
 }
+.hero-section .container .right .trust{
+    color:#a5b4fc;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: #0D1029;
+    padding: 4px 10px;
+    border: 1px solid #1A1D48;
+    border-radius: 15px;
+}
 .hero-section .container .right h1 span{
     color:#759AF8; 
 }
@@ -217,7 +226,7 @@ nav .container .btn button{
 /* Start the rates section */
 
 .rates1-section{
-    background-color: #fff;
+    background-color: #F9FAFB;
     border-bottom: 1px solid #EFF0F3;
     padding-bottom: 25px;
 }
@@ -244,3 +253,68 @@ nav .container .btn button{
     
 }
 /* End the rates section */
+
+/* Start the pruducts section */
+.products{
+    background-color:#F9FAFB ;
+}
+.products .container{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.products .container span{
+    font-weight: 500;
+    font-size: 14px;
+    color: #4338ca;
+    background-color:#E0E7FF;
+    padding:5px 8px;
+    border-radius:10px ;
+    text-align: center;
+}
+.products .container h2{
+    color: #111827;
+    font-weight: 700;
+    font-size: 36px;
+}
+.products .container p{
+    color:#4b5563 ;
+    font-weight:400 ;
+    font-size:18px ;
+    line-height: 28px;
+}
+.products .container .products-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.products .container .products-items .item{
+    width: 30%;
+    border: 1px solid #fff;
+    background-color: #fff;
+    margin-bottom: 30px;
+   padding:40px 30px;
+   margin-right: 10px;
+   border-radius: 20px;
+   text-align: start;
+}
+
+.products .container .products-items .item h3{
+    color: #111827;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.products .container .products-items .item p{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+
+
+
+
+/* End the pruducts section */

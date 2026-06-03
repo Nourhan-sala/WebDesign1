@@ -423,7 +423,49 @@ nav .container .btn button{
     padding-bottom: 40px;
     border-bottom: 2px solid #F2F3F5;
 }
-
-
-
 /* End the asked section */
+/* Start the ship section */
+.ship{
+    background-color: #4038BB;
+    padding-block: 50px;
+    text-align: center;
+
+}
+
+.ship .container h2{
+    color: #fff;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.ship .container p{
+    color: #e0e7ff;
+    font-weight: 400;
+    font-size: 18px;
+    
+}
+
+.ship .container .btns-ship .btn1{
+     width: 230px;
+     height: 50px;
+     color: #4338ca;
+     background-color: #fff;
+     padding: 10px;
+     margin-right: 10px;
+     font-weight: 500;
+     font-size: 16;
+     border: none;
+     border-radius: 10px;
+}
+.ship .container .btns-ship .btn2{
+     width: 200px;
+     height: 50px;
+     color: #fff;
+     background-color: transparent;
+     padding: 10px;
+      font-weight: 500;
+     font-size: 16;
+     border: 2px solid #7E78D2;
+      border-radius: 10px;
+}
+/* End the ship section */

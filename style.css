@@ -378,3 +378,52 @@ nav .container .btn button{
 
 
 /* End the loved section */
+
+
+/* Strat the asked section */
+.asked{
+    background-color: #fff;
+    padding-block: 70px;
+      text-align: center;
+}
+
+.asked .container span{
+    color: #4338ca;
+    background-color: #E0E7FF;
+    padding: 3px 7px;
+    border-radius: 12px;
+    font-weight: 500;
+    font-size: 14px;
+
+}
+
+.asked .container h2{
+    color: #111827;
+    font-weight: 700;
+    font-size: 37px; 
+}
+
+.asked .container p{
+    color: #4b5563;
+    font-weight: 400;
+    font-size: 18px;
+    
+}
+
+.asked .container .askes{
+    text-align: start;
+    padding-top: 20px;
+    padding-left: 350px;
+}
+
+.asked .container .askes p{
+    color: #111827;
+    font-weight: 600;
+    font-size: 18px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid #F2F3F5;
+}
+
+
+
+/* End the asked section */

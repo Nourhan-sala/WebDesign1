@@ -214,4 +214,33 @@ nav .container .btn button{
 /* End the hero section */
 
 
+/* Start the rates section */
 
+.rates1-section{
+    background-color: #fff;
+    border-bottom: 1px solid #EFF0F3;
+    padding-bottom: 25px;
+}
+
+.rates1-section .container .rates{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.rates1-section .container .rates p{
+    color: #4f46e5;
+    font-weight: 700;
+    font-size:48px ;
+    
+}
+
+.rates1-section .container .rates span{
+    color: #6b7280;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 1px;
+  
+    
+}
+/* End the rates section */

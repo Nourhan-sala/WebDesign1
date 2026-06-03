@@ -261,6 +261,7 @@ nav .container .btn button{
 .products .container{
     padding-top: 50px;
     text-align: center;
+    padding-bottom: 100px;
 }
 
 .products .container span{
@@ -313,8 +314,67 @@ nav .container .btn button{
 }
 
 
-
-
-
-
 /* End the pruducts section */
+
+/* Start the loved section */
+.loved{
+    background-color:#F9FAFB;
+     text-align: center;
+}
+.loved .container span{
+    font-weight: 500;
+    font-size: 14px;
+    color: #4338ca;
+    background-color:#E0E7FF;
+    padding:5px 8px;
+    border-radius:10px ;
+    
+}
+.loved .container h2{
+    font-weight: 700;
+    font-size: 36px;
+    color: #111827;
+}
+
+.loved .container p{
+    color: #4b5563;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.loved .container .loved-items{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    padding-bottom:50px ;
+}
+
+.loved .container .loved-items .items{
+    background-color: #fff;
+    padding: 20px 40px;
+    border-radius: 20px ;
+
+}
+
+.loved .container .loved-items .items .user{
+    display: flex;
+   
+}
+.loved .container .loved-items .items .user .profile{
+    width: 50px;
+    height: 50px;
+    background-color: #E0E7FF;
+    border-radius: 50%;
+   
+}
+
+.loved .container .loved-items .items .user .profile h4{
+    text-align: center;
+    color:rgb(79, 70, 229);
+    font-weight: 600;
+    font-size: 18px;
+  
+}
+
+
+/* End the loved section */
